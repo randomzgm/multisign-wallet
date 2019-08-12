@@ -135,7 +135,7 @@ Utils.getClient = function(args, opts, cb) {
     });
 
     const client = new Client({
-        baseUrl: url.resolve(host, '/bws/api'),
+        baseUrl: url.resolve(host, 'bws/api'),
         verbose: args.verbose,
         supportStaffWalletId: opts.walletId,
         timeout: 20 * 60 * 1000,
