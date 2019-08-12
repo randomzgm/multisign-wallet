@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c69f6865-98fa-47b1-8b1c-46ac15927e9b" name="Default Changelist" comment="" />
+    <list default="true" id="c69f6865-98fa-47b1-8b1c-46ac15927e9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clientUtil.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/clientUtil.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="key/" />
+    <ignored path="node_modules/" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,64 +20,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/createWallet.js">
+        <entry file="file://$PROJECT_DIR$/src/createWallet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="162">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../multisign-wallet/package.json">
+        <entry file="file://$PROJECT_DIR$/src/clientUtil.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="90">
+              <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/fs.js">
+        <entry file="file://$PROJECT_DIR$/src/fileStorage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9504">
-              <caret line="547" selection-start-line="547" selection-end-line="547" />
+            <state relative-caret-position="360">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/clientUtil.js">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/url.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog/log.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4446">
-              <caret line="247" selection-start-line="247" selection-end-line="247" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="1689" column="18" selection-start-line="1689" selection-start-column="2" selection-end-line="1689" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/openWallet.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="1404">
+              <caret line="97" column="2" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -96,6 +84,9 @@
       <find>format</find>
       <find>heading</find>
       <find>json</find>
+      <find>localhost</find>
+      <find>resolveObject</find>
+      <find>isSourceAbs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,9 +104,9 @@
         <option value="$PROJECT_DIR$/src/client.js" />
         <option value="$PROJECT_DIR$/src/filestorage.js" />
         <option value="$PROJECT_DIR$/src/fileStorage.js" />
-        <option value="$PROJECT_DIR$/src/clientUtil.js" />
         <option value="$PROJECT_DIR$/src/createWallet.js" />
-        <option value="$PROJECT_DIR$/../multisign-wallet/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/clientUtil.js" />
       </list>
     </option>
   </component>
@@ -130,18 +121,11 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="x" value="417" />
+    <option name="y" value="27" />
+    <option name="width" value="1389" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -153,11 +137,11 @@
         <subPane>
           <expand>
             <path>
-              <item name="multisign_wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multisign-wallet" type="b2602c69:ProjectViewProjectNode" />
               <item name="multisign-wallet" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="multisign_wallet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="multisign-wallet" type="b2602c69:ProjectViewProjectNode" />
               <item name="multisign-wallet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -172,7 +156,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -187,7 +171,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -211,19 +195,19 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.createWallet.js">
-    <configuration name="createWallet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../multisign-wallet/src/createWallet.js" working-dir="$PROJECT_DIR$/../multisign-wallet/src">
+    <configuration name="createWallet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="createWallet.js" working-dir="$PROJECT_DIR$/src">
       <envs>
-        <env name="BWS_HOST" value="http://localhost:3232/" />
+        <env name="BWS_HOST" value="http://localhost:8000/bws/" />
       </envs>
       <method v="2" />
     </configuration>
-    <configuration name="example.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog/example.js" working-dir="$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog">
+    <configuration name="example.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_modules/npmlog/example.js" working-dir="$PROJECT_DIR$/node_modules/npmlog">
       <method v="2" />
     </configuration>
-    <configuration name="openWallet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../multisign-wallet/src/openWallet.js" working-dir="$PROJECT_DIR$/../multisign-wallet/src">
+    <configuration name="openWallet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/openWallet.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
-    <configuration name="sendWallet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../multisign-wallet/src/sendWallet.js" working-dir="$PROJECT_DIR$/../multisign-wallet/src">
+    <configuration name="sendWallet.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/sendWallet.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <list>
@@ -262,32 +246,48 @@
       <workItem from="1562212683608" duration="5164000" />
       <workItem from="1562222397434" duration="11300000" />
       <workItem from="1562289926569" duration="5989000" />
-      <workItem from="1562380300030" duration="1107000" />
+      <workItem from="1562380300030" duration="1331000" />
+      <workItem from="1562405398965" duration="110000" />
+      <workItem from="1562570949515" duration="945000" />
+      <workItem from="1565244038751" duration="1778000" />
+      <workItem from="1565249011976" duration="1795000" />
+      <workItem from="1565427085867" duration="448000" />
+      <workItem from="1565428713317" duration="2901000" />
+      <workItem from="1565574263704" duration="282000" />
     </task>
+    <task id="LOCAL-00001" summary="创建项目">
+      <created>1562405255372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562405255372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36877000" />
+    <option name="totallyTimeSpent" value="45360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.20831056" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.20043811" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" sideWeight="0.50161815" side_tool="true" weight="0.20831056" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3527508" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.399137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35164836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2835165" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32914045" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32857144" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32901832" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,20 +300,51 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="创建项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/credentials.js</url>
+          <url>file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/credentials.js</url>
           <line>143</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/api.js</url>
+          <line>816</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/url.js</url>
+          <line>653</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/url.js</url>
+          <line>662</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/url.js</url>
+          <line>686</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;https://localhost/sbws/bws/api&quot;</expression-string>
+        <language-id>JavaScript</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-mnemonic/index.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-mnemonic/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
@@ -323,38 +354,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-lib/lib/address.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-lib/lib/address.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/common/utils.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/common/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="20" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/bitcore-wallet-client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1208880">
-          <caret line="67160" column="13" selection-start-line="67160" selection-start-column="13" selection-end-line="67160" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/credentials.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/credentials.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2430">
           <caret line="135" column="24" selection-start-line="135" selection-start-column="24" selection-end-line="135" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/sendWallet.js">
+    <entry file="file://$PROJECT_DIR$/src/sendWallet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/rejectWallet.js">
+    <entry file="file://$PROJECT_DIR$/src/rejectWallet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="31" selection-start-line="27" selection-end-line="31" />
@@ -363,44 +387,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wallet-create" />
     <entry file="file://$PROJECT_DIR$/src/cli-utils.js" />
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/fileStorage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog/package.json">
+    <entry file="file://$PROJECT_DIR$/node_modules/npmlog/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-324" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/moment/package.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/package.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/moment/moment.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/moment.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1134" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/moment/ender.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/ender.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog/README.md">
+    <entry file="file://$PROJECT_DIR$/node_modules/npmlog/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -408,14 +411,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog/example.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/npmlog/example.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/moment/README.md">
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -423,14 +426,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/moment/moment.d.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/moment.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1831">
           <caret line="574" column="42" lean-forward="true" selection-start-line="574" selection-start-column="42" selection-end-line="574" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/log.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/log.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="102" selection-start-line="102" selection-end-line="102" />
@@ -444,7 +447,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-mnemonic/lib/mnemonic.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-mnemonic/lib/mnemonic.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
@@ -458,52 +461,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/createWallet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9504">
-          <caret line="547" selection-start-line="547" selection-end-line="547" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/clientUtil.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/npmlog/log.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4446">
-          <caret line="247" selection-start-line="247" selection-end-line="247" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/node_modules/bitcore-wallet-client/lib/api.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1689" column="18" selection-start-line="1689" selection-start-column="2" selection-end-line="1689" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/src/openWallet.js">
+    <entry file="file://$PROJECT_DIR$/src/openWallet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../multisign-wallet/package.json">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/fs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        <state relative-caret-position="3404">
+          <caret line="547" selection-start-line="547" selection-end-line="547" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/bitcore-wallet-client.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14706">
+          <caret line="817" column="12" selection-start-line="817" selection-start-column="12" selection-end-line="817" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/superagent/lib/node/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13086">
+          <caret line="727" column="15" selection-start-line="727" selection-start-column="15" selection-end-line="727" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14688">
+          <caret line="816" column="4" selection-start-line="816" selection-start-column="4" selection-end-line="816" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bitcore-wallet-client/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/npmlog/log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1746">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/createWallet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.10.0/core-modules/url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="97" column="2" selection-start-line="97" selection-start-column="2" selection-end-line="97" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clientUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="152" column="12" selection-start-line="152" selection-start-column="12" selection-end-line="152" selection-end-column="12" />
         </state>
       </provider>
     </entry>
